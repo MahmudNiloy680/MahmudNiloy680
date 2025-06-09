@@ -36,16 +36,16 @@
 
 ---
 
-### 📊 GitHub Summary Cards  
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudNiloy680&theme=gotham&hide_title=true&hide_border=true" alt="Profile Details" width="100%"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmudNiloy680&theme=aura" alt="GitHub Stats" width="35%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmudNiloy680&theme=aura" alt="Most used languages" width="35%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmudNiloy680&theme=aura" alt="GitHub Stats" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmudNiloy680&theme=aura" alt="Most used languages" width="40%"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmudNiloy680&theme=aura" alt="Repos per language" width="35%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmudNiloy680&theme=aura&utcOffset=6" alt="Productive Time" width="35%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmudNiloy680&theme=aura" alt="Repos per language" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmudNiloy680&theme=aura&utcOffset=6" alt="Productive Time" width="40%"/>
 </p>
 
 ---
